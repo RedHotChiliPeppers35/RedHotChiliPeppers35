@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- ✏️ 📚 I’m currently studying Industrial Engineering 
+- ✏️ 📚 I’m currently studying Industrial Engineering and working part-time in DHL
 - 💻 🗃 I’m currently learning Machine Learning and SQL
 - 👯 I’m looking to collaborate on "Machine Learning project" or "Data Science project"
 - 🤔 I’m looking for a project which contirbutes me and my colleagues .
