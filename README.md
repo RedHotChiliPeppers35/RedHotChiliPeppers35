@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything :)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ataberkcinetci)
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I developed 8 apps for iOS by SWIFT language.
+- ⚡ Fun fact: I created my nickname while I am listening redhotchilipeppers and 35 is the postal code of the city where I was born and grew up. 
 -->
