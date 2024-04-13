@@ -4,9 +4,8 @@
 Here are some ideas to get you started:
 
 - ✏️ 📚 I’m currently studying Industrial Engineering
-- 💻 🗃 I’m currently learning Machine Learning and SQL
-- 👯 I’m looking for collaborate on "Machine Learning project" or "Data Science project"
-- 🤔 I’m looking for a project which will contributes me and my colleagues .
+- 💻 🗃 I’m currently working on a Flutter Project
+- 👯 I have a passion for "Machine Learning" and "Data Science"
 - 💬 Ask me about anything :)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ataberkcinetci)
 - 😄 Pronouns: He/Him 
